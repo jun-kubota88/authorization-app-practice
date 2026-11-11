@@ -14,6 +14,7 @@ COACHTECH 教材 Tutorial 10-3「認可機能 ハンズオン演習」で作成�
 
 ## 動作確認
 - ローカルホストにアクセスし、Web画面にて表示されることを確認しました。
+- 
 ユーザーAでログイン時の投稿一覧（ユーザーAの投稿にのみ「編集」「削除」ボタンが表示される）
   <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fe449abd-7329-42fe-b988-9f3f0c50f0a6" />
 ユーザーBでログイン時の投稿一覧（ユーザーBの投稿にのみ「編集」「削除」ボタンが表示される）
